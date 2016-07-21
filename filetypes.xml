@@ -1,6 +1,7 @@
 <application>
   <component name="FileTypeManager" version="17">
     <extensionMap>
+      <mapping pattern="pomm" type="DTD" />
       <mapping pattern="GOP" type="XML" />
     </extensionMap>
   </component>
